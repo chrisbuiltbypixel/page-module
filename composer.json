@@ -1,0 +1,24 @@
+{
+    "name": "builtbypixel/page-module",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Chris Mills",
+            "email": "chris@builtbypixel.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Page\\": ""
+        }
+    }
+}
